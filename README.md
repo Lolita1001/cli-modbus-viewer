@@ -2,6 +2,8 @@
 
 CLI утилита для опроса Modbus TCP устройств с отображением регистров в табличной форме.
 
+![demo](https://raw.githubusercontent.com/Lolita1001/cli-modbus-viewer/assets/media/cli-modbus-viewer.png)
+
 Английская версия: [README.en.md](README.en.md)
 
 ## Возможности

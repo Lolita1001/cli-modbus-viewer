@@ -2,6 +2,8 @@
 
 CLI utility for polling Modbus TCP devices with a tabular view of registers.
 
+![demo](https://raw.githubusercontent.com/Lolita1001/cli-modbus-viewer/assets/media/cli-modbus-viewer.png)
+
 Russian version: [README.md](README.md)
 
 ## Features
